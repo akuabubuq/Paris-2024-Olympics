@@ -1,28 +1,23 @@
 # Description of Project
 
 ### Project Overview
-This project is intended to create a dashboard about Indonesia's track record in Olympics Tournament. This project is meticulously documented, covering the following steps:
-  - Data Preparation: Gathering and refining data for analysis
-  - Exploratory Data Analysis: Uncovering insights and trends from the dataset
+This project is intended to create an interactive dashboard about Paris 2024 Olympic's medal. This project is meticulously documented, covering the following steps:
+  - Data Preparation: Data scrapping and refining data for analysis
   - Dashboard Creation: Developing a user-friendly visualization to present the findings
 
 ### Data Sources
-Kaggle: https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018?select=olympic_results.csv
+Wikipedia: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
 
 ### Tools
-  - Python; Data prepration and Exploratory Data Analysis
+  - Python; Data scrapping and preparation
   - Tableau; Dashboard creation
 
 ### Data Preparation
 For the initial data preparation phase, we performed the following tasks:
-  - Data loading
-  - Checking null values
-  - Data cleaning and formatting
+  - Data scrapping;
+  - Set dataframe for analysis
 
-### Exploratory Data Analysis
-Involved exploring the sales data to answer the following questions:
-  - What is Indonesia's average ranking in the Olympics for each year they particiapted, and how has the ranking changed over time?
-  - Is there any correlation between number of athlehtes being sent to participates and competitions participated in to their overall success?
+### Dashboard Creation
+Involved exploring the Paris 2024 Olympic's medal data
 
-
-Through this project, i aim to demonstrate my skilss in data analytics and data visualization, providing a clear and insightful view of Indonesia's Olympic achievements.
+Through this project, i aim to demonstrate my skilss in data analytics and data visualization, providing a clear and insightful view of Paris 2024 Olympic's medal standing.
