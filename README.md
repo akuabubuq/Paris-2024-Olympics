@@ -19,5 +19,6 @@ For the initial data preparation phase, we performed the following tasks:
 
 ### Dashboard Creation
 Involved exploring the Paris 2024 Olympic's medal data
+Dashboard can be accessed here: https://public.tableau.com/app/profile/rigen.gunadi/viz/Paris2024Olympics_17257717754540/Dashboard1
 
 Through this project, i aim to demonstrate my skilss in data analytics and data visualization, providing a clear and insightful view of Paris 2024 Olympic's medal standing.
