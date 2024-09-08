@@ -9,8 +9,8 @@ This project is intended to create an interactive dashboard about Paris 2024 Oly
 Wikipedia: https://en.wikipedia.org/wiki/2024_Summer_Olympics_medal_table
 
 ### Tools
-  - Python; Data scrapping and preparation
-  - Tableau; Dashboard creation
+  - Python: Data scrapping and preparation
+  - Tableau: Dashboard creation
 
 ### Data Preparation
 For the initial data preparation phase, we performed the following tasks:
